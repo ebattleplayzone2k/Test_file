@@ -1,5 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://netflix.vflix.xyz/audio_proxy?url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/a/1/1.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=800000,AUDIO="audio"
-https://netflix.vflix.xyz/video_proxy?url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/1080p/1080p.m3u8
+https://netflix.vflix.xyz/proxy_dual?video_url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/1080p/1080p.m3u8&audio_url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/a/1/1.m3u8
