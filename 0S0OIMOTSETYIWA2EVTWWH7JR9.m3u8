@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="hin",NAME="Hindi",DEFAULT=YES,URI="https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/a/0/0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="kan",NAME="Kannada",DEFAULT=NO,URI="https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/a/1/1.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="mal",NAME="Malayalam",DEFAULT=NO,URI="https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/a/2/2.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="tam",NAME="Tamil",DEFAULT=NO,URI="https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/a/3/3.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="tel",NAME="Telugu",DEFAULT=NO,URI="https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/a/4/4.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=600000,AUDIO="audio"
-https://s10.nfmirrorcdn.top/files/0JB2DO61KP6RCWAHJ0QJWTWLMK/720p/720p.m3u8?in=72374f0cc10c4bb7c1491b854bcbf4c6::6b404693edbfe3ba0384e8750562aa74::1727881645::ni
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="hin",NAME="Hindi",DEFAULT=YES,AUTOSELECT=YES,URI="https://netflix.vflix.xyz/audio_proxy?url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/a/1/1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Eng",NAME="Eng",DEFAULT=NO,AUTOSELECT=YES,URI="https://netflix.vflix.xyz/audio_proxy?url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/a/0/0.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=800000,AUDIO="audio"
+https://netflix.vflix.xyz/video_proxy?url=https://s10.nfmirrorcdn.top/files/0GJELUP02915VQK0U203GZMULS/1080p/1080p.m3u8
